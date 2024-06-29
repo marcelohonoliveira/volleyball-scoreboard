@@ -28,4 +28,7 @@ volleyball-scoreboard/
 ```
 
 ## Como Usar
-Instruções de uso do projeto.
+Run:
+```
+python main.py
+```
